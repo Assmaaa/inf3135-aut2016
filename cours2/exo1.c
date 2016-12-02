@@ -7,4 +7,7 @@ int main() {
         s = s + j * i;
     }
     printf("%d\n", s);
+
+   printf("fini");
+
 }
